@@ -1,7 +1,7 @@
 FROM        node:19-bullseye-slim
 
-LABEL       author="AmGeekz" maintainer="admin@amgeekz.site"
-LABEL       org.opencontainers.image.source="https://github.com/amgeekz/pterodactyl-images"
+LABEL       author="Kadeskuy" maintainer="admin@kadeskuy.site"
+LABEL       org.opencontainers.image.source="https://github.com/Fikrii29/pterodactyl-images"
 LABEL       org.opencontainers.image.licenses="MIT"
 
 RUN         apt-get update \
